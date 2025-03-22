@@ -5,7 +5,7 @@
 </p>
 This project demonstrates how to create a custom `clip-path` for an image using CSS.
 
-🔗 Live Demo:  (alexsand-r.github.io/clip-path/)
+🔗 Live Demo:  [(alexsand-r.github.io/clip-path/)](https://alexsand-r.github.io/clip-path/)
 
 ## Steps to create:
 
