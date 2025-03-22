@@ -1,2 +1,4 @@
-# 📐 <p align="center">css clip path polygon.</p> 
+
+# 📐 Custom css clip-path polygon
+
 
